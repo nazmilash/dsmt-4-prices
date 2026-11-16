@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "market-data": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "market_data.py"]
+    }
+  }
+}
